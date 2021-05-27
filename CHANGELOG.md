@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.3.0](https://www.github.com/Teletha/stylist/compare/v1.2.0...v1.3.0) (2021-05-27)
+
+
+### Features
+
+* Add cubic-bezier on transition. ([ab5f122](https://www.github.com/Teletha/stylist/commit/ab5f122313f340551fcaa4dc1a72e74c85ad4a63))
+* Add DesignScheme instead of Theme. ([6050667](https://www.github.com/Teletha/stylist/commit/6050667dc6d4cafe267fb61b4d50a77fffcdaa54))
+* Add directional color method. ([0b102a3](https://www.github.com/Teletha/stylist/commit/0b102a3e692415e5b5a63da1f57743af4c9ce58b))
+* Add FontSet, use it instead of Font[]. ([ce29443](https://www.github.com/Teletha/stylist/commit/ce29443b6dc54d5cadf68232f974aceabd778e43))
+* Addition easing keyword. ([a2b5a25](https://www.github.com/Teletha/stylist/commit/a2b5a2577d3e78d9e26e0457bbf107386749d812))
+* Content property accepts multiple values. ([025afd6](https://www.github.com/Teletha/stylist/commit/025afd6d423df1028ea25451d2a4da04b760e901))
+* Support multiple themes. ([aa720c7](https://www.github.com/Teletha/stylist/commit/aa720c729453aedb61f637db5acc89bb127f9ca9))
+* Support String by CSS Variable. ([f8c225f](https://www.github.com/Teletha/stylist/commit/f8c225f1f021d8fbf0e0fcd85c6454f194d3811d))
+
+
+### Bug Fixes
+
+* Tooltip ignore any pointer events now. ([53f9046](https://www.github.com/Teletha/stylist/commit/53f9046f5fbba2cce8cd381802cf4d3eaa386ccb))
+
 ## [1.2.0](https://www.github.com/Teletha/stylist/compare/v1.1.0...v1.2.0) (2021-05-18)
 
 
